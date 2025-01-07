@@ -1,0 +1,8 @@
+.env
+/.vscode/*
+/vendor/*
+/composer.json
+package.json
+
+
+
